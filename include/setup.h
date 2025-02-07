@@ -9,5 +9,5 @@ extern DHT dht;
 #define DHTTYPE DHT11   // modelo do sensor - DHT11
 #define DHTPIN 4 //pino do sensor
 
-void setup();
+void setup();/**             */
 
